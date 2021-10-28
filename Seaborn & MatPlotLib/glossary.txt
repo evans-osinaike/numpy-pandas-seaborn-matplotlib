@@ -1,0 +1,35 @@
+Glossary
+Below is a list of functions from both Matplotlib and Seaborn, that you have learned in this lesson. Observe the tables below carefully, and recall the examples that you have practiced so far. This will help you understand the difference between the utility of Matplotlib and Seaborn packages.
+
+Univariate Visualization Functions
+Plot type	matplotlib.pyplot function	seaborn function
+Bar Chart	---	countplot()
+barplot()
+Pie Chart	pie()	---
+Histogram	hist()	distplot()
+displot()
+histplot()
+Bivariate Visualization Functions
+Plot type	matplotlib.pyplot function	seaborn function
+Scatterplot	scatter()	regplot()
+Heat Map	hist2d()	heatmap()
+Violin Plot	---	violinplot()
+Box Plot	---	boxplot()
+Clustered Bar Chart	---	countplot()
+heatmap()
+Faceting	---	FacetGrid()
+Bar Plot	---	barplot()
+Point Plot	---	pointplot()
+Line Plot	errorbar()	---
+Other useful functions
+Utility	matplotlib.pyplot function
+Subplots	subplot()
+Figure	figure()
+Axes	Axes()
+Get current axes	gca()
+Set current axes	sca()
+Comprehensive List of Plots
+See the comprehensive list of visualization functions.
+
+matplotlob.pyplot functions
+seaborn functions
